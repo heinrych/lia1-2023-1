@@ -1,10 +1,12 @@
 Repositório para Conteúdos de Aula e Projetos Entregues pelos alunos!
 
 
-05 e 07/07 - fast.ai (4) - entrega dia 07.
+26 e 28/07 - Projeto.
 
-12 e 14/07 - Recesso acadêmico!
+02 e 04/08 - Projeto.
 
-19 e 21/07 - fast.ai (5) - entrega dia 21.
+09 (Grupo A) e 11/08 (Grupo B) - Apresentações prévias.
 
-26/07 - aula no Lab 200!
+16 (Grupo A) e 18/08 (Grupo B) - Apresentações finais.
+
+23/08 - Entrega de notas finais.
